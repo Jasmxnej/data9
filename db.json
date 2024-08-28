@@ -101,7 +101,7 @@
   "id": "MNG",
   "name": "Mongolia",
   "continent": "Asia",
-  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/MNG.png",
+  "flag_url": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/MGL.png",
   "total_medals": 1,
   "medals_by_sport": {
     "until_2024": {
